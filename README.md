@@ -28,8 +28,9 @@ Cloud based bookmarks - stored in github
 
 ### Web Technology
 - [Express - Node.js web application framework](http://expressjs.com/)
+___
 
-### C Sharp
+## C Sharp
 - [Threading](http://www.albahari.info/threading/threading.pdf)
 - [Threading](http://www.albahari.com/threading/part3.aspx#_Apartments_and_Windows)
 - [Roy Triesscheijn's Weblog](http://roy-t.nl/)
@@ -55,6 +56,7 @@ Cloud based bookmarks - stored in github
 - [Undo Engine Class][2]
 - [Simplifying the WPF TreeView by Using the ViewModel Pattern](http://www.codeproject.com/Articles/26288/Simplifying-the-WPF-TreeView-by-Using-the-ViewMode)
 - [Basic Understanding of Tree View in WPF](http://www.codeproject.com/Articles/124644/Basic-Understanding-of-Tree-View-in-WPF)
+___
 
 ## C++
 - [C++ FAQ LITE](http://www.parashift.com/c++-faq-lite/)
@@ -62,9 +64,9 @@ Cloud based bookmarks - stored in github
 - [CPPClean](http://code.google.com/p/cppclean/)
 - [Anatomy of a Program in Memory](http://duartes.org/gustavo/blog/post/anatomy-of-a-program-in-memory)
 - [Compiler Explorer](https://gcc.godbolt.org/)
+___
 
 ## Graphics
-
 ### D3D
 - [D3DBook: Introduction](http://cloudstore.blogspot.ca/2008/05/creating-custom-window-style.html)
 - [My own little DirectX FAQ](http://tomsdxfaq.blogspot.com/)
@@ -101,13 +103,14 @@ Cloud based bookmarks - stored in github
 
 ### etc
 - [Dream State Coding](https://github.com/eowind/dreamstatecoding)
+___
 
 ## Game Dev
 - [Free Game Development Libraries](http://www.ebonyfortress.co.uk/blog/free-game-development-libraries/)
 - [Basic Tutorial 6](http://www.ogre3d.org/tikiwiki/Basic+Tutorial+6)
 - [Tutorials](http://www.ogre3d.org/tikiwiki/Tutorials)
 - [Tutorial Index](http://www.rastertek.com/tutindex.html)
-
+___
 
 ## emacs
 - [Emacs Colors and Themes](http://www.emacswiki.org/emacs?action=browse;oldid=ColorTheme;id=ColorAndCustomThemes)
@@ -115,11 +118,13 @@ Cloud based bookmarks - stored in github
 - [Emacs Quick Reference guide](http://seamons.com/projects/emacs/)
 - [Productivity - What's your most productive shortcut](http://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim/1220118#1220118)
 - [Filsinger's Git](http://filsinger.me/workflow/emacs-git-business-and-pleasure/)
+___
 
 ## Visual Studio
 - [Visual C++ Team Blog: Controlling Intellisense](http://blogs.msdn.com/vcblog/archive/2007/11/19/controlling-intellisense-through-macros.aspx)
 - [Studio Styles: Latest schemes](http://studiostyles.info/schemes/latest)
 - [Visual Studio Code](https://code.visualstudio.com/docs?start=true)
+___
 
 ## Unreal
 - [Creating a simple parser with ANTLR | Ivan Yurchenko](https://ivanyu.me/blog/2014/09/13/creating-a-simple-parser-with-antlr/)
@@ -135,13 +140,16 @@ Cloud based bookmarks - stored in github
 - [Lasers, Shields, Planets](https://www.unrealengine.com/blog/lasers-shields-planets-polishing-arsenal)
 - [Particle System as "Bullet Tracer"](https://forums.unrealengine.com/showthread.php?82524-Particle-System-as-quot-Bullet-Tracer-quot-Needing-additional-information)
 - [An Introduction to UE4 Plugins](https://wiki.unrealengine.com/An_Introduction_to_UE4_Plugins)
+___
 
 ## Misc
 - [Is it better to rent or buy](http://www.nytimes.com/interactive/2015/06/17/upshot/100000002894612.app.html?smid=fb-nytimes&smtyp=cur&_r=2&utm_content=buffer40254&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
 - [Brotli compression format](https://github.com/google/brotli)
+___
 
 ## Cars
 - [Check Engine Light](http://www.nissanforums.com/l31-2002-2006/7500-all-you-ever-wanted-know-about.html)
+___
 
 
 [1]: http://msdn.microsoft.com/en-us/library/gg405484(v=pandp.40).aspx
